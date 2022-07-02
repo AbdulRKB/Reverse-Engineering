@@ -1,0 +1,18 @@
+00 00 A0 E3 1E FF 2F E1 = False or number 0
+01 00 A0 E3 1E FF 2F E1 = True or number 1
+02 00 A0 E3 1E FF 2F E1 = Number 2
+07 00 A0 E3 1E FF 2F E1 = Number 7
+0A 00 A0 E3 1E FF 2F E1 = Number 10
+0F 00 A0 E3 1E FF 2F E1 = Number 15
+10 00 A0 E3 1E FF 2F E1 = Number 16
+11 00 A0 E3 1E FF 2F E1 = Number 17
+12 07 80 E3 1E FF 2F E1 = VALUE OF 12 Million or It can be used for health/ammo/armour/damage
+DC 0F 00 E3 1E FF 2F E1 = VALUE 4060
+DC OF OF E3 1E FF 2F E1 = VALUE 120000
+01 0A A0 E3 1E FF 2F E1 = 1000
+01 08 A0 E3 1E FF 2F E1 = 10000
+01 02 A0 E3 1E FF 2F E1 = 10000000
+C2 0A 64 60 00 00 00 02 = Speed Hack
+01 04 A0 E3 1E FF 2F E1 = 1000000
+0E 00 A0 E3 1E FF 2F E1 = Fire Rate
+FF FF = Value of 65535 = Highest value 4 character hex code
